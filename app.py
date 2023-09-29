@@ -29,7 +29,7 @@ page_bg_img = f"""
 }}
 
 
-[class="css-6qob1r eczjsme3"]{{
+[class="st-emotion-cache-6qob1r eczjsme3"]{{
     font-family:sans-serif;
     background-color:#00afd6 ;
     color:white;
@@ -48,7 +48,7 @@ page_bg_img = f"""
 
 }}
 
-[class="css-10trblm e1nzilvr1"]{{
+[class="st-emotion-cache-10trblm e1nzilvr1"]{{
     font-family:sans-serif;
     color: #00afd6;
     font-weight: normal;
@@ -61,12 +61,13 @@ page_bg_img = f"""
     font-weight: bold;
 }}
 
-[class="streamlit-expanderHeader st-ae st-cm st-ag st-ah st-ai st-aj st-cn st-co st-cp st-cq st-cr st-cs st-ct st-ar st-as st-b6 st-b5 st-b3 st-cu st-cv st-cw st-b4 st-cx st-cy st-cz st-d0 st-d1"]{{
+[class="streamlit-expanderHeader st-ae st-cg st-ag st-ah st-ai st-aj st-ch st-ci st-cj st-ck st-cl st-cm st-cn st-ar st-as st-b6 st-b5 st-b3 st-co st-cp st-cq st-b4 st-cr st-cs st-ct st-cu st-cv"]{{
     background-color:#dcdcdc;
+    color: #00afd6;
 }}
 
 img{{
-    max-width:10%;
+    max-width:15%;
     max-height: 100%;
     margin-left: auto;
     margin-right: auto;
