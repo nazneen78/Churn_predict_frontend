@@ -67,7 +67,7 @@ page_bg_img = f"""
 }}
 
 img{{
-    max-width:15%;
+    max-width:10%;
     max-height: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -94,7 +94,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.image("churn-rate2.png", use_column_width=True)
 
-st.markdown("""<p style="font-family:Helvetica;color:#00afd6; font-size: 60px; text-align: center; font-weight:bold;"> Churn Prediction app</p>
+st.markdown("""<p style="font-family:Helvetica;color:#00afd6; font-size: 50px; text-align: center; font-weight:bold;"> Churn Prediction app</p>
             <p style="font-family:sans-serif;color:#00afd6; font-size: 24px;"> Upload a csv file here</p>
 
             """,unsafe_allow_html=True )
