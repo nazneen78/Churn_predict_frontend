@@ -83,6 +83,10 @@ img{{
     color: #00afd6;
 }}
 
+[class="main css-uf99v8 ea3mdgi5"]{{
+    background:white;
+}}
+
 </style>
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
